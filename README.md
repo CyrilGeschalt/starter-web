@@ -28,3 +28,6 @@ sdknfb,nsd f
 ## aller c bon c'est la fin
 
 enfait encore un coup  et encore
+
+
+Ajout du copyright sur simple.html
