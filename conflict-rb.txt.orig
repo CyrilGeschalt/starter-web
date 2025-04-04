@@ -1,0 +1,7 @@
+ligne1
+ligne2
+<<<<<<< HEAD
+Je modifie la ligne3
+=======
+Je modifie la ligne3 sur master
+>>>>>>> d4afa5f (Génération du conflit : Modification de le ligne 3 dans master)
