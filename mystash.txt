@@ -1,0 +1,2 @@
+voici un peu de texte pour le test de stash
+
