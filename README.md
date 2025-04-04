@@ -31,3 +31,4 @@ enfait encore un coup  et encore
 
 
 Ajout du copyright sur simple.html
+correction bug
